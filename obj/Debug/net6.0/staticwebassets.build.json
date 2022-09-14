@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5Q2XEVdfQYwyTaReiNQRPhDEUNd0HejviQqLQk+RXaw=",
+  "Source": "MoviesAPI",
+  "BasePath": "_content/MoviesAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MoviesAPI\\wwwroot",
+      "Source": "MoviesAPI",
+      "ContentRoot": "C:\\Users\\Javier\\Desktop\\api\\webAutores\\MoviesAPI\\wwwroot\\",
+      "BasePath": "_content/MoviesAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
